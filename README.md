@@ -1,12 +1,12 @@
 # learning-log
-Registro diario de mi aprendizaje en la Tecnicatura en Ciencia de Datos.
+Daily journal of my progress in the Data Science Technical Program.
 
-## ¿Qué es esto?
-Un commit por día. Cada entrada registra qué estudié, qué entendí y qué tengo que repasar.
+## What is this?
+One commit per day. Each entry tracks what I studied, what I understood, and what I need to revisit.
 
-## Materias
-- Base de Datos (SQL)
-- Recopilación e Integración de Datos
-- Programación (Python)
-- Matemática
-- Estadística y Probabilidad
+## Topics Covered
+- Databases (SQL)
+- Data Collection & Integration
+- Programming (Python)
+- Mathematics
+- Statistics & Probability
